@@ -7,12 +7,12 @@ import retrofit2.http.POST;
 
 public interface SpreadsheetWebService {
 
-    @POST("1FAIpQLSd9jl6cAH5h8wmwFok8xh-ECLLpXWTqUopgzmNBQM5_xt3VMw/formResponse")
+    @POST("1FAIpQLSdtDkrSieZNYkU3K6EQBR2alIX4FsN5o9A5l_-KjZSPDmMjdw/formResponse")
     @FormUrlEncoded
     Call<Void> feedbackSend(
-        @Field("entry.1942285924") String feedback,
-        @Field("entry.1133595447") String name,
-        @Field("entry.414154651") String email
+        @Field("entry.1761353828") String feedback,
+        @Field("entry.432570231") String name,
+        @Field("entry.1949120247") String email
     );
 
 }

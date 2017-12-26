@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "D:\\Haseeb\\Android App Source Codes\\SpreadsheetInput_Feedback_Tut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/d1858cbd3e03863f9fc2139ee58f9e05/res/values-v21/values-v21.xml",
-                    "from": {
-                        "startLines": "2,13",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,814",
-                        "endLines": "12,23",
-                        "endColumns": "12,12",
-                        "endOffsets": "809,1560"
-                    },
-                    "to": {
-                        "startLines": "225,236",
-                        "startColumns": "4,4",
-                        "startOffsets": "16916,17675",
-                        "endLines": "235,246",
-                        "endColumns": "12,12",
-                        "endOffsets": "17670,18421"
-                    }
-                },
-                {
-                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Muhammad.haseeb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\4ecce1eefb4e8971c3bbb6d36a2f853c\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,166,168,170,173,175,178,179,180,183,184,185,186,187,188,191,192,194,196,198,200,204,206,207,208,209,211,215,217,219,220,221,222,223,225,226,227,237,238,239,251,263,264,265,268,271,272,275,276,279,282",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Muhammad.haseeb\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\f3cba6df0e189973ed41e7ddcd3f1aeb\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,814",
+                        "endLines": "12,23",
+                        "endColumns": "12,12",
+                        "endOffsets": "809,1560"
+                    },
+                    "to": {
+                        "startLines": "225,236",
+                        "startColumns": "4,4",
+                        "startOffsets": "16916,17675",
+                        "endLines": "235,246",
+                        "endColumns": "12,12",
+                        "endOffsets": "17670,18421"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Muhammad.haseeb\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.0.aar\\6fe5b0429628ee6460896af033785298\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

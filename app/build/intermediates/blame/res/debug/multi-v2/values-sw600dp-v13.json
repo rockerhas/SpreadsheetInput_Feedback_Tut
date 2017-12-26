@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "D:\\Haseeb\\Android App Source Codes\\SpreadsheetInput_Feedback_Tut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/d1858cbd3e03863f9fc2139ee58f9e05/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
-                    }
-                },
-                {
-                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Muhammad.haseeb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\4ecce1eefb4e8971c3bbb6d36a2f853c\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -31,7 +21,17 @@
                     }
                 },
                 {
-                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Muhammad.haseeb\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.0.2.aar\\f3cba6df0e189973ed41e7ddcd3f1aeb\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Muhammad.haseeb\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.0.aar\\6fe5b0429628ee6460896af033785298\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

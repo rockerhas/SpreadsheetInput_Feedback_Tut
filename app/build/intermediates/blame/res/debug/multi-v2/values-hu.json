@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "D:\\Haseeb\\Android App Source Codes\\SpreadsheetInput_Feedback_Tut\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\Muhammad.haseeb\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\4ecce1eefb4e8971c3bbb6d36a2f853c\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
